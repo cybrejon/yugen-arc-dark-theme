@@ -1,9 +1,14 @@
-# yugen-arc-dark-theme
+# YugenAnime Arc Dark Theme
+A Stylus theme for YugenAnime.
+
+Changes:
+ - Hides the homepage carousel (swiper)
+ - Replaces logo with a more modern-looking one
 
 ![screenshot](./screenshot.png)
 
-copy paste into stylus
+## Get Stylus.
 
-chrome: https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne?hl=en
+### Chrome: https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne?hl=en
 
-firefox: https://addons.mozilla.org/en-US/firefox/addon/styl-us/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search
+### Firefox: https://addons.mozilla.org/en-US/firefox/addon/styl-us/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search
