@@ -1,5 +1,7 @@
 # yugen-arc-dark-theme
 
+![screenshot](./screenshot.png)
+
 copy paste into stylus
 
 chrome: https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne?hl=en
